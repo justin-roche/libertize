@@ -16,6 +16,8 @@
 *.launch
 .settings/
 *.sublime-workspace
+.#*
+*#
 
 # IDE - VSCode
 .vscode/*
@@ -40,6 +42,6 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
-/src/ng-wizi-bulma/
+/src/libertize/
 
 .firebase

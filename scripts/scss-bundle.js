@@ -13,7 +13,7 @@ function ScssBundlePlugin(options) {
 }
 
 new ScssBundlePlugin({
-  glob: './projects/ng-wizi-bulma/src/**/*.scss',
-  paths: ['./dist/@wizishop/ng-wizi-bulma/ng-wizi-bulma.scss'],
+  glob: './projects/libertize/src/**/*.scss',
+  paths: ['./dist/@justin-roche/libertize/libertize.scss'],
   scss: ['colors']
 });
